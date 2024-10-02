@@ -1,3 +1,5 @@
+![chiffchaff](https://github.com/kilipan/chiffchaff/blob/main/chiffchaff.jpg?raw=true)
+
 # Chiffchaff
 *An unholy mixture of Zilpzalp and Chiffre*
 
